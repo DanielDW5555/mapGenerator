@@ -1,0 +1,4 @@
+﻿  mapGenerator.cpp
+c:\users\seth\source\repos\mapgenerator\mapgenerator\mapgenerator.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mapGenerator.vcxproj -> C:\Users\Seth\source\repos\mapGenerator\Debug\mapGenerator.exe
+  mapGenerator.vcxproj -> C:\Users\Seth\source\repos\mapGenerator\Debug\mapGenerator.pdb (Partial PDB)
